@@ -25,12 +25,12 @@ This project focuses on analyzing various aspects of loan applications and their
 2. Monitor the MTD average DTI.
 3. Track MoM fluctuations.
 #### Good Loan vs Bad Loan KPIs
-# Good Loan
+#### Good Loan
 1. Good Loan Application Percentage
 2. Good Loan Applications
 3. Good Loan Funded Amount
 4. Good Loan Total Received Amount
-# Bad Loan
+#### Bad Loan
 1. Bad Loan Application Percentage
 2. Bad Loan Applications
 3. Bad Loan Funded Amount
